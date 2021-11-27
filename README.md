@@ -17,3 +17,4 @@ The temperature analysis / study reveals the following
 # Summary
 
 - We need to do further analysis on the pericipitation quantity in June and December, which help establish whether there is any relation on pericipation and the temperatutre obsereved
+- We could also analyse station wise Temperature and Precipitation to find the best location in Oahu.
